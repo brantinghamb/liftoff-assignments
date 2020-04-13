@@ -20,7 +20,7 @@ add an athlete/edit athlete
 search athletes
 Send athlete to your page/Email
 ### Technologies
-Database (MySQL)
+Database (MySQL), javascript, css
 ### What I'll Have to Learn
 Formating, Libraries
 ### Project Tracker
