@@ -13,7 +13,7 @@ They will select from a list of technical skills (I.E. 40 yard dash, bench, vert
 of what they are searching for in an athlete. They will then be presented a list of 
 high school athletes that fit with their given perameters. This will give college
 recuits a list of curated athletes that have the potential to beneficial to their
-programs all in one location.
+programs all in one location in this project.
 ### Features
 User login
 add an athlete/edit athlete
