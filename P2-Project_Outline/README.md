@@ -8,11 +8,19 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 Include overview here
+This application will be used for college football recruits.
+They will select from a list of technical skills (I.E. 40 yard dash, bench, vert ect.)
+of what they are searching for in an athlete. They will then be presented a list of 
+high school athletes that fit with their given perameters. 
 ### Features
-Include Features here
+User login
+add an athlete/edit athlete
+search athletes
+Send athlete to your page/Email
 ### Technologies
-Include Technologies here
+Database (MySQL)
 ### What I'll Have to Learn
-Include what you will need to learn here
+Formating, Libraries
 ### Project Tracker
 Link to your Trello board here
+https://trello.com/b/mAUJwe84/recruit-u
