@@ -7,5 +7,6 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 https://www.linkedin.com/in/barrett-brantingham-8b03541a8/
 
+
 ### Project Repository
-https://github.com/brantinghamb/Recruit-U.git 
+https://github.com/brantinghamb/recruit-u-2.git
